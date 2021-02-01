@@ -1,0 +1,27 @@
+body
+{
+	background-image: url(images/a.jpg);
+	margin: 0px;
+}
+.head
+{
+	font-family: "Trebuchet MS"
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	margin-left: 50px;
+}
+#banner
+{
+	width: 99.5%;
+	height: 100px;
+	border: 2px solid white;
+	background-color: rgba(0,0,0,0.7);
+}
+.clg
+{
+	font-family: "Segoe UI";
+	font-size: 16px;
+	color: orange;
+	
+}
